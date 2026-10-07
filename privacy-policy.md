@@ -77,11 +77,7 @@ processed by **Google** as an independent controller:
 Interval Pro is a general-audience utility, not directed at children, and we do not knowingly collect personal
 data from children. The advertising is not configured as child-directed.
 
-## 8. Contact
-
-`<YOUR CONTACT EMAIL>`
-
-## 9. Changes to this policy
+## 8. Changes to this policy
 
 If this policy changes, the updated version is published at this same address with a new effective date.
 Material changes are also noted in the app's release notes.
