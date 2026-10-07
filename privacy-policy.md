@@ -1,9 +1,7 @@
 # Privacy policy — Interval Pro
 
 **App:** Interval Pro (`com.gsi85.intervalpro`), Android
-**Developer:** `<YOUR NAME OR COMPANY>`
-**Contact:** `<YOUR CONTACT EMAIL>`
-**Effective date:** `<YYYY-MM-DD>`
+**Effective date:** `2026-10-07`
 
 **In one paragraph.** Interval Pro is an interval timer. It has no account, no sign-in and no server of ours,
 and the app itself collects nothing about you. It shows a banner ad through Google's AdMob SDK, and that SDK
